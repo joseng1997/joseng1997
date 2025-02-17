@@ -1,4 +1,4 @@
-#Hello there 👋
+#Hello there 👋#
 ##I’m José Navarro, a passionate Full-Stack Developer with a strong background in education and a love for technology and sports.
 
 🔭 I’m currently working on PadelZone, a project focused on creating an innovative platform for padel club owners.
