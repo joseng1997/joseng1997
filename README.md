@@ -13,8 +13,10 @@
 
 📫 How to reach me:
 
-- Email: [joseng1997@gmail.com](mailto:joseng1997@gmail.com)
-- LinkedIn: [www.linkedin.com/in/joseng1997](https://www.linkedin.com/in/joseng1997)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseng1997@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseng1997/)
+
+
 
 😄 **Pronouns**: He/him
 
